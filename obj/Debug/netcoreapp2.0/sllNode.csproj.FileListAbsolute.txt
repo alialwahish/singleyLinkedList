@@ -1,0 +1,11 @@
+/home/ali/codingDojo/c#/sllNode/bin/Debug/netcoreapp2.0/sllNode.deps.json
+/home/ali/codingDojo/c#/sllNode/bin/Debug/netcoreapp2.0/sllNode.runtimeconfig.json
+/home/ali/codingDojo/c#/sllNode/bin/Debug/netcoreapp2.0/sllNode.runtimeconfig.dev.json
+/home/ali/codingDojo/c#/sllNode/bin/Debug/netcoreapp2.0/sllNode.dll
+/home/ali/codingDojo/c#/sllNode/bin/Debug/netcoreapp2.0/sllNode.pdb
+/home/ali/codingDojo/c#/sllNode/obj/Debug/netcoreapp2.0/sllNode.csprojResolveAssemblyReference.cache
+/home/ali/codingDojo/c#/sllNode/obj/Debug/netcoreapp2.0/sllNode.csproj.CoreCompileInputs.cache
+/home/ali/codingDojo/c#/sllNode/obj/Debug/netcoreapp2.0/sllNode.AssemblyInfoInputs.cache
+/home/ali/codingDojo/c#/sllNode/obj/Debug/netcoreapp2.0/sllNode.AssemblyInfo.cs
+/home/ali/codingDojo/c#/sllNode/obj/Debug/netcoreapp2.0/sllNode.dll
+/home/ali/codingDojo/c#/sllNode/obj/Debug/netcoreapp2.0/sllNode.pdb
